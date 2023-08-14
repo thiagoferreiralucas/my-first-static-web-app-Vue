@@ -8,7 +8,7 @@
 
     <hr>
 
-    <h2>Tags para Parágrafo</h2>
+    <h2><u>Tags para Parágrafo</u></h2>
 
       <!-- Quando menor o valor maior a importância -->
       <h1>Cabeçalho Principal</h1>
