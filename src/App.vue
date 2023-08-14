@@ -26,7 +26,7 @@
       <p>Texto qualquer</p>
           
       <!-- Negrito e Itálico -->
-      <p>Texto em <b>Negrito</b> e <i>Itálico</i></p  
+      <p>Texto em <b>Negrito</b> e <i>Itálico</i></p> 
                                                    
       <!-- Sublinado -->
       <p>Texto sublinhado</p>
