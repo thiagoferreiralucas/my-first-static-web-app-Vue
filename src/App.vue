@@ -2,7 +2,7 @@
   <div>
 
     <!-- Comentários -->
-    <h1>Bem-Vindo a página do {{ value }}, espero que tenha gostado!</h1>
+    <h1 id="#inicio">Bem-Vindo a página do {{ value }}, espero que tenha gostado!</h1>
     <p>teste</p>
 
     <hr>
@@ -20,8 +20,6 @@
     <hr>
 
     <h2>Tags para Texto</h2>
-
-      <h3>Principais termos do glossário de Cloud Computing</h3>
   
       <!-- Texto padrão -->
       <p>Texto qualquer</p>
@@ -58,6 +56,15 @@
 
     <hr>
 
+    <h2>Novos links</h2>
+    
+    <a href="https://www.google.com.br" target="_black">Google</a>
+
+    <a href="#inicio">Voltar para início</a>
+
+    <hr>
+
+    
 </template>
 
 <script>
