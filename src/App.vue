@@ -18,41 +18,6 @@
 
     <tr>
 
-  <h3>Tabela<h3>
-      
-    <table border=1px>
-    <caption>Produtos</caption>
-    <thead>
-        <tr>
-            <th>Produto</th>
-            <th>Preço</th>
-            <th>Quantidade</th>
-            <th>Total</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>iPad</th>
-            <td>3289,00</th>
-            <td>5</th>
-            <td>16445,00</th>
-        </tr>
-        <tr>
-            <td>Sansung S9</th>
-            <td>2649,00</th>
-            <td>8</th>
-            <td>21192,00</th>
-        </tr>
-    </tbody>
-    <tfoot>
-        <tr>
-            <td colspan="3">Total</td>
-            <td>37637,00</td>
-        </tr>
-    </tfoot>
-</table>
-    
-  </div>
 </template>
 
 <script>
