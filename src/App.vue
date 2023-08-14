@@ -8,7 +8,7 @@
 
     <hr>
 
-    <h2>Tags para Parágrafo</h2>
+    <h2><s>Tags para Parágrafo</s></h2>
 
       <!-- Quando menor o valor maior a importância -->
       <h1>Cabeçalho Principal</h1>
@@ -20,20 +20,23 @@
 
     <hr>
 
-    <h2>Tags para Texto</h2>
+    <h2><s>Tags para Texto</s></h2>
   
       <!-- Texto padrão -->
       <p>Texto qualquer</p>
           
       <!-- Negrito e Itálico -->
-      <p>Texto em <b>Negrito</b> e <i>Itálico</i></p>
+      <p>Texto em <b>Negrito</b> e <i>Itálico</i></p  
+                                                   
+      <!-- Sublinado -->
+      <p>Texto <s>sublinhado</s></p>
       
       <!-- Sobrescrito e Subescrito -->
       <p>2<sup>2</sup> = 4 e H<sub>2</sub>O = Água!</p>
 
     <hr>
 
-    <h2>Tags para Listas</h2>
+    <h2><s>Tags para Listas</s></h2>
     
       <!-- Lista Ordenada ( ol - Order List | li - List Item ) -->
       <h3>Aprovados</h3>
@@ -57,13 +60,13 @@
 
     <hr>
 
-    <h2>Tags para Imagens</h2>
+    <h2><s>Tags para Imagens</s></h2>
     
     <img src="https://sorocaba.sp.senai.br/Img/logo-senai2.png">
 
     <hr>
 
-    <h2>Tags para Links</h2>
+    <h2><s>Tags para Links</s></h2>
     
     <a href="https://www.google.com.br" target="_black">Google</a>
 
