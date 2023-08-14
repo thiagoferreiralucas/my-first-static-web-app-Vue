@@ -1,12 +1,5 @@
 <template>
-  <div>Hello {{ value }}</div>
-
-  <div>
-    <p>Primeiro parágrafo do texto.</p>
-    <p>Segundo parágrafo do texto.</p>
-    <p>Terceiro parágrafo do texto.</p>
-  </div>
-  
+  <div>Hello {{ value }}</div>  
 </template>
 
 <script>
