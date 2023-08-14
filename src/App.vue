@@ -2,7 +2,7 @@
   <div>
 
     <!-- Comentários -->
-    <h1 id="inicio">Bem-Vindo a página do Prof. Thiago!</h1>
+    <h1 id="inicio" style="color:red;">Bem-Vindo a página do Prof. Thiago!</h1>
     <p>Curso AZ-900</p>
     <p>Senai Luiz Pagliato</p>
 
@@ -33,7 +33,7 @@
 
     <hr>
 
-    <h2>Listas</h2>
+    <h2>Tags para Listas</h2>
     
       <!-- Lista Ordenada ( ol - Order List | li - List Item ) -->
       <h3>Aprovados</h3>
@@ -57,15 +57,13 @@
 
     <hr>
 
-    <h2>Novos links</h2>
+    <h2>Tags para Imagens</h2>
     
-    <a href="https://www.google.com.br" target="_black">Google</a>
-
-    <a href="#inicio">Voltar para início</a>
+    <img src="https://sorocaba.sp.senai.br/Img/logo-senai2.png">
 
     <hr>
 
-    <h2>Novos links</h2>
+    <h2>Tags para Links</h2>
     
     <a href="https://www.google.com.br" target="_black">Google</a>
 
