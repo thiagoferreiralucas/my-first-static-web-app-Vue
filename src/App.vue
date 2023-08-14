@@ -16,7 +16,7 @@
         <dd>Software as a Service</dd>
     </dl>
 
-    <tr>
+    <hr>
 
 </template>
 
