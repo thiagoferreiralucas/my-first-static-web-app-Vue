@@ -2,8 +2,9 @@
   <div>
 
     <!-- Comentários -->
-    <h1 id="#inicio">Bem-Vindo a página do {{ value }}, espero que tenha gostado!</h1>
-    <p>teste</p>
+    <h1 id="inicio">Bem-Vindo a página do Prof. Thiago!</h1>
+    <p>Curso AZ-900</p>
+    <p>Senai Luiz Pagliato</p>
 
     <hr>
 
@@ -64,6 +65,15 @@
 
     <hr>
 
+    <h2>Novos links</h2>
+    
+    <a href="https://www.google.com.br" target="_black">Google</a>
+
+    <br><br>
+
+    <a href="#inicio">Voltar para início</a>
+
+    <hr>
     
 </template>
 
