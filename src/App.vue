@@ -1,6 +1,6 @@
 <template>
   <div>
-    Bem-Vindo a página do {{ value }}, espero que tenha gostado!
+    <h1>Bem-Vindo a página do {{ value }}, espero que tenha gostado!</h1>
     <p>teste</p>
   </div>
 </template>
